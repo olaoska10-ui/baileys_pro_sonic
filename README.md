@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/lk9sro.png" alt="Balis Banner" width="100%">
+  <img src="https://files.catbox.moe/ic6obv.jpg" alt="Balis Banner" width="100%">
 </p>
 
 <div align="center">
